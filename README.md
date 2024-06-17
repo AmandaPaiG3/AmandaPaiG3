@@ -1,6 +1,6 @@
 Hey, I'm Amanda  👋
 
-I'm a Web Developer, sometimes a photographer, and a multi hyphenated nerd, always learning something new.  
+ 
 
 
 <!---
